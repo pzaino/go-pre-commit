@@ -1,6 +1,0 @@
----
-# This file configures https://pre-commit.com/
-# to use specific hooks and options.
-
-fail_fast: false
-
